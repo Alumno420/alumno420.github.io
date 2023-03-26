@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 100
+  limit: 9
   # - CHANGE THE NUMBER TO MORE REPOSITORIES 
   exclude:
     archived: false
@@ -48,10 +48,26 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: IB
-    web_url: https://www.ibo.org/es/
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/International_Baccalaureate_Logo.svg/330px-International_Baccalaureate_Logo.svg.png
+  - name: Python
+    web_url: https://github.com/topics/python3
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/python.png
 
-  - name: Mi filosofía
-    web_url: about:blank
-    image_url: https://upload.wikimedia.org/wikipedia/commons/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg
+  - name: C++
+    web_url: https://github.com/topics/cpp
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/cpp.png
+
+  - name: C
+    web_url: https://github.com/topics/c
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/c.png
+  
+  - name: SFML
+    web_url: https://github.com/topics/sfml
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/sfml-icon-big.png
+
+  - name: WSL2
+    web_url: https://github.com/topics/wsl
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/wsl2.png
+   
+  - name: GNU Project
+    web_url: https://github.com/topics/gnu
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/GNU_white.svg.png
